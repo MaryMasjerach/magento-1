@@ -1,1 +1,2 @@
 Out of several open source e-commerce web applications, Magento is one of the most popular web application framework provider. It was launched in 2008 made as an open source development and became as the one of the fastest developing e-commerce platforms. It is especially designed to provide all solutions to the e-commerce platforms and allows it’s clients to have full control over online store including merchandising, promotions etc. It also plays it’s role in SEO (Search Engine Optimization) that helps in gaining more customers and spreading business.
+
